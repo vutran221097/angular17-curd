@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Bài viết 1",
+      "content": "Nội dung bài viết 1",
+      "published": true
+    },
+    {
+      "id": 2,
+      "title": "Bài viết 2",
+      "content": "Nội dung bài viết 2",
+      "published": false
+    },
+    {
+      "id": 3,
+      "title": "Bài viết 3",
+      "content": "Nội dung bài viết 3",
+      "published": true
+    },
+    {
+      "title": "4",
+      "content": "444",
+      "id": 4
+    }
+  ]
+}
